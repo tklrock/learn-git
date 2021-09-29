@@ -1,0 +1,1 @@
+print("I am a fan of giraffes")
